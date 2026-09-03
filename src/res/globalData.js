@@ -84,6 +84,15 @@ export const projects = [
         gitLink: "https://github.com/derrick-akinocho/mytvshow",
         picture: "https://i.ibb.co/WNVDttGt/Screenshot-4.png",
         alt: "Demo du projet My TV Show"
+    },
+    {
+        name: "ELand",
+        description: "ELand est une application desktop en Python qui capture en temps réel des zones de l'écran pendant une partie, applique de l'OCR (EasyOCR) sur le texte détecté, puis affiche la traduction dans un overlay superposé à la fenêtre du jeu. L'utilisateur peut créer des 'scènes' par jeu, configurer plusieurs overlays (position, style, zone de capture) et choisir le moteur de traduction (Google Translate ou GPT-4o-mini).",
+        skills: ['Python', 'PyQt6', 'EasyOCR', 'OpenAI API', 'OOP', 'Multithreading'],
+        link: "",
+        gitLink: "",
+        picture: "https://i.ibb.co/XZFRyXnP/eland1.png",
+        alt: "Demo du projet ELand"
     }
 ];
 
