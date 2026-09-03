@@ -93,6 +93,15 @@ export const projects = [
         gitLink: "",
         picture: "https://i.ibb.co/XZFRyXnP/eland1.png",
         alt: "Demo du projet ELand"
+    },
+    {
+        name: "Soul Land Universe",
+        description: "Soul Land Universe est un wiki communautaire pour le jeu Soul Land: Awakening World, développé avec Claude. J'ai piloté l'ensemble du projet : architecture des données (Firebase/Firestore), conception du système de contribution communautaire (soumission, modération, publication programmée), dashboard admin, notifications en temps réel, et interface traduite en 8 langues. Mon rôle a couvert la spécification produit, les décisions UX, les tests, et le débogage.",
+        skills: ['Product Management', 'Firebase/Firestore', 'UX Design', 'QA & Debugging', 'AI-Assisted Development', 'Git/Vercel Deployment'],
+        link: "https://sluniverse.vercel.app/",
+        gitLink: "",
+        picture: "https://i.ibb.co/20BRVrtq/sl.png",
+        alt: "Aperçu du wiki Soul Land Universe"
     }
 ];
 
