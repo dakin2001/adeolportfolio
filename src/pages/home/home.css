@@ -81,6 +81,11 @@
     padding: 20px;
 }
 
+@media (max-width: 768px) {
+    .realisations_container {
+        gap: 25px;
+    }
+}
 /* Section experiences */
 
 .section_experience {
